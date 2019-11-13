@@ -3,7 +3,7 @@
 function updateOrder()
 {
 
-    include('php/database.php');
+    include('php/database1.php');
 
     ?>
     <form class="form-detail" action="#" method="post">

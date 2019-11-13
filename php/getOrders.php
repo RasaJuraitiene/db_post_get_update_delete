@@ -1,8 +1,11 @@
 <?php
 
-function getOrders()
+//include ('Database.php');
+//use database\select;
+
+    function getOrders()
 {
-    include("php/database.php");
+    include("php/database1.php");
     ?>
     <table class="table table-hover">
         <thead>

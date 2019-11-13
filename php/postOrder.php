@@ -2,7 +2,7 @@
 
 function postOrder()
 {
-    include_once('php/database.php');
+    include_once('php/database1.php');
     ?>
 
     <form class="form-detail" action="#" method="post">
